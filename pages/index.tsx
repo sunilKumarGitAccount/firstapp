@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-    <h1>changed to merge</h1>
+    <h1>changed to created</h1>
     <UnifiedSearch/>
     <h1>main</h1>
     </>
